@@ -1,3 +1,5 @@
+# We implement the same code as used in:
+#github.com/awjuliani/DeepRL-Agents/blob/master/Deep-Recurrent-Q-Network.ipynb
 import random
 import numpy as np
 
